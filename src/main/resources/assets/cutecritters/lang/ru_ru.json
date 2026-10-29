@@ -1,0 +1,16 @@
+{
+  "item.cutecritters.critter_cookie": "Печенье для зверушек",
+  "entity.cutecritters.watcher": "Зверёк",
+  "message.cutecritters.welcome": "Cute Critters+: ваши зверушки рады вас видеть!",
+  "message.cutecritters.stalker": "Не моргай.",
+  "message.cutecritters.scare": "Я ВИЖУ ТЕБЯ",
+  "message.cutecritters.whisper.0": "Ты не один.",
+  "message.cutecritters.whisper.1": "Оно смотрит.",
+  "message.cutecritters.whisper.2": "Не оборачивайся.",
+  "message.cutecritters.whisper.3": "Слышишь дыхание?",
+  "message.cutecritters.whisper.4": "Они всё видят.",
+  "message.cutecritters.whisper.5": "Оно ближе, чем кажется.",
+  "message.cutecritters.whisper.6": "Тише.",
+  "message.cutecritters.whisper.7": "Ты слишком долго здесь.",
+  "message.cutecritters.whisper.8": "Оно запомнило тебя."
+}
