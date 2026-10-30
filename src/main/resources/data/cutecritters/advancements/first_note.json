@@ -1,0 +1,19 @@
+{
+  "parent": "cutecritters:root",
+  "display": {
+    "icon": { "item": "cutecritters:lore_note" },
+    "title": { "translate": "advancement.cutecritters.first_note.title" },
+    "description": { "translate": "advancement.cutecritters.first_note.desc" },
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "note": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [ { "items": [ "cutecritters:lore_note" ] } ]
+      }
+    }
+  }
+}
