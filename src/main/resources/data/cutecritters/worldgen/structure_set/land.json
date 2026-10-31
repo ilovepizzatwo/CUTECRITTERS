@@ -1,0 +1,39 @@
+{
+  "structures": [
+    {
+      "structure": "cutecritters:critter_town",
+      "weight": 36
+    },
+    {
+      "structure": "cutecritters:cute_village",
+      "weight": 28
+    },
+    {
+      "structure": "cutecritters:ruined_village",
+      "weight": 12
+    },
+    {
+      "structure": "cutecritters:graveyard",
+      "weight": 9
+    },
+    {
+      "structure": "cutecritters:treehouse",
+      "weight": 6
+    },
+    {
+      "structure": "cutecritters:library",
+      "weight": 5
+    },
+    {
+      "structure": "cutecritters:altar",
+      "weight": 3
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 40,
+    "separation": 32,
+    "salt": 4180231,
+    "frequency": 0.85
+  }
+}
