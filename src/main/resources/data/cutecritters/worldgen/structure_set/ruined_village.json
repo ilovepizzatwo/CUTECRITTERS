@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "cutecritters:ruined_village",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 64,
+    "separation": 32,
+    "salt": 1014,
+    "frequency": 0.0
+  }
+}
