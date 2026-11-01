@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "cutecritters:library",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 64,
+    "separation": 32,
+    "salt": 1007,
+    "frequency": 0.0
+  }
+}
